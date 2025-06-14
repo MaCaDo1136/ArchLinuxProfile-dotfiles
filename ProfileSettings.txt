@@ -1,0 +1,3 @@
+Hyprland config: nano ~/.config/hypr/hyprland.conf
+Wallpaper manager: swww
+Battery: acpi
