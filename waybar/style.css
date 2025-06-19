@@ -238,6 +238,16 @@ window#waybar.empty #window {
     color: #FFFFFF
 }
 
+#hardware-group {
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    padding: 2px 10px;
+    margin: 5px 15px 5px 0px;
+    opacity: 0.8;
+    color: #000000;
+}
+
+
 #memory {
     margin-right:10px;
 }

@@ -27,24 +27,25 @@
     "modules-right": [
         "pulseaudio",
         "bluetooth",
-        "group/hardware",
         "network",
+	"group/hardware",
 	"battery",
         "clock",
 	"custom/exit"
     ],
 
-    // Group Hardware
-    "group/hardware": {
-        "orientation": "horizontal",
-        "modules": [
-            "disk",
-            "disk#sda",
-            "cpu",
-            "memory",
-            "temperature",
-            ]
-    },
+     // Hardware
+     "group/hardware": {
+   	"name": "hardware-group",
+	"orientation": "horizontal",
+    	"modules": [
+	        "disk",
+	        "disk#sda",
+	        "cpu",
+        	"memory",
+        	"temperature"
+    	]
+	},
 
     // Rofi Application Launcher
     "custom/appmenu": {
