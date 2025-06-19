@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "Instalando paquetes de pacman..."
+sudo pacman -Syu
 sudo pacman -Syu --needed - < pkglist.txt
 
 echo "Instalando paquetes AUR..."

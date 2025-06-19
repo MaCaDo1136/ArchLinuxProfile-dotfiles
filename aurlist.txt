@@ -75,6 +75,7 @@ swaync
 tlp
 ttf-font-awesome
 tumbler
+trizen
 ventoy-bin
 visual-studio-code-bin
 vulkan-radeon
@@ -83,6 +84,7 @@ webkit2gtk
 wev
 wireplumber
 wl-clipboard
+wlogout
 wofi
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-wlr
