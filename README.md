@@ -1,3 +1,4 @@
 Arch Linux configuration with firefox, zoom, spotify, creality print, solaar and some main apps to have a nice and clean setup
-![image](https://github.com/user-attachments/assets/eeb602e8-76af-41fb-8ce0-e6b0ed6e662f)
-![image](https://github.com/user-attachments/assets/22d0faa2-9894-489a-bf73-57414fcc18fb)
+![image](https://github.com/user-attachments/assets/5974ad02-3ff0-4079-98c7-f24ea755654f)
+![image](https://github.com/user-attachments/assets/2fa7a45a-b97e-4456-9767-dbdea4ebe61e)
+
