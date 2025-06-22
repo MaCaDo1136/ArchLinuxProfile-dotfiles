@@ -62,6 +62,8 @@ python-pywal
 qalculate-gtk
 qt5-wayland
 qt6-5compat
+qt6-virtualkeyboard
+qt6-multimedia-ffmpeg
 qt6-multimedia
 reflector
 rofi
@@ -72,6 +74,8 @@ solaar
 spdlog
 spotify
 swaync
+sddm 
+qt6-svg
 tlp
 ttf-font-awesome
 tumbler
