@@ -26,7 +26,6 @@
     // Modules Right    
     "modules-right": [
         "pulseaudio",
-        "bluetooth",
         "network",
 	"group/hardware",
 	"battery",

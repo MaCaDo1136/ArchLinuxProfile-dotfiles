@@ -95,3 +95,10 @@ yay-debug
 zoom
 zram-generator
 zsh
+ntfs-3g
+exfatprogs
+bc
+ripgrep
+fd
+lazygit
+tree-sitter
