@@ -1,6 +1,5 @@
 acpi
 acpid
-alacritty
 amd-ucode
 appimagelauncher
 base
@@ -70,7 +69,6 @@ rofi
 rpi-imager
 sddm
 sof-firmware
-solaar
 spdlog
 spotify
 swaync
@@ -102,3 +100,4 @@ ripgrep
 fd
 lazygit
 tree-sitter
+neovim
