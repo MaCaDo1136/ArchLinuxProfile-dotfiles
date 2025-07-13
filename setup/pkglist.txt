@@ -101,3 +101,5 @@ fd
 lazygit
 tree-sitter
 neovim
+hyprpaper
+hyprlock

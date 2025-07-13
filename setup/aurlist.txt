@@ -27,7 +27,6 @@ gtkmm3
 gvfs-afc
 gvfs-gphoto2
 gvfs-mtp
-hyprland
 hyprshot
 inxi
 iwd
@@ -86,7 +85,6 @@ wireplumber
 wl-clipboard
 wlogout
 wofi
-xdg-desktop-portal-hyprland
 xdg-desktop-portal-wlr
 yay
 yay-debug
