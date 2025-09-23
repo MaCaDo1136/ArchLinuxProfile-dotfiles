@@ -20,7 +20,7 @@
  * ----------------------------------------------------- */
 
 * {
-    font-family: "CaskaydiaCove Nerd Font Mono","Fira Sans Semibold", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+    font-family: "FontAwesome","Fira Sans Semibold", FontAwesome, Roboto, Helvetica, Arial, sans-serif, CaskaydiaCove Nerd Font Mono;
     border: none;
     border-radius: 0px;
 }
