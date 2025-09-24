@@ -33,5 +33,5 @@
   "vim-startuptime": { "branch": "master", "commit": "b6f0d93f6b8cf6eee0b4c94450198ba2d6a05ff6" },
   "vim-tmux-navigator": { "branch": "master", "commit": "c45243dc1f32ac6bcf6068e5300f3b2b237e576a" },
   "vscode-js-debug": { "branch": "main", "commit": "7c3933f625ecd99a1b790fbc3d71f9dfcf08169f" },
-  "which-key.nvim": { "branch": "main", "commit": "370ec46f710e058c9c1646273e6b225acf47cbed" }
+  "which-key.nvim": { "branch": "main", "commit": "904308e6885bbb7b60714c80ab3daf0c071c1492" }
 }
