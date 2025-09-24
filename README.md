@@ -1,38 +1,49 @@
-ArchLinuxProfile-dotfiles
+# ARCHLINUXPROFILE-DOTFILES
 
-🚀 Configuración personal completa para Arch Linux con Hyprland, Neovim, Zsh, Waybar y más.
-Automatiza la instalación y configuración de tu sistema desde cero.
+> 🚀 Configuración personal completa para Arch Linux con Hyprland, Neovim, Zsh, Waybar y más.  
+> Automatiza la instalación y personalización de tu sistema desde cero.
 
-📸 Screenshots (opcional pero recomendado)
+---
 
-Pantalla del escritorio Hyprland con Waybar y tema aplicado.
+## TABLE OF CONTENTS
 
-Neovim abierto con tus configuraciones y plugins.
+- [INTRODUCTION](#introduction)  
+- [SCREENSHOTS](#screenshots)  
+- [INSTALLATION FROM SCRATCH](#installation-from-scratch)  
+- [FEATURES](#features)  
+- [REPOSITORY STRUCTURE](#repository-structure)  
+- [NOTES](#notes)  
+- [CREDITS](#credits)  
 
-Terminal con Zsh + Powerlevel10k y fastfetch o neofetch.
+---
 
-Ejecución del install.sh (terminal mostrando progreso).
+## INTRODUCTION
 
-Esto da un impacto visual rápido y demuestra que tu configuración funciona.
+ArchLinuxProfile-dotfiles is a repository containing **personal dotfiles and scripts** to set up a modern Arch Linux system with:
 
-📝 Descripción
+- **Shell:** Zsh + Powerlevel10k  
+- **Terminal:** Kitty  
+- **Editor:** Neovim with Lazy.nvim and personal plugins  
+- **Graphical Environment:** Hyprland + Waybar + Hyprpaper + Hyprlock  
+- **Utilities:** Neofetch, Fastfetch, pywal, htop, wofi, network tools  
 
-Este repositorio contiene dotfiles y scripts para configurar un sistema Arch Linux moderno con:
+The goal is to **set up a full system from scratch** with one command and have your environment ready to use.
 
-Shell: Zsh + Powerlevel10k
+---
 
-Terminal: Kitty
+## SCREENSHOTS
 
-Editor: Neovim con Lazy.nvim y configuraciones personalizadas
+Include screenshots for better visual appeal:
 
-Entorno gráfico: Hyprland + Waybar + Hyprpaper + Hyprlock
+1. **Hyprland Desktop:** Desktop with Waybar, wallpaper, and theme applied.  
+2. **Neovim:** Showing your init.lua, plugins, and color scheme.  
+3. **Terminal:** Zsh + Powerlevel10k prompt with fastfetch/neofetch.  
+4. **Install Script Execution:** Terminal showing `install.sh` progress.  
 
-Herramientas útiles: Neofetch, Fastfetch, pywal, htop, wofi, etc.
+Example Markdown for images:
 
-El objetivo es poder configurar un sistema desde cero de manera rápida y reproducible.
-
-⚡ Instalación desde cero
-
-Si estás instalando Arch Linux desde cero, sigue estos pasos:
-
-1️⃣ Conexión a Wi-Fi
+```markdown
+![Hyprland Desktop](screenshots/hyprland.png)
+![Neovim](screenshots/nvim.png)
+![Zsh Terminal](screenshots/terminal.png)
+![Install Script](screenshots/install.png)
