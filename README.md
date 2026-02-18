@@ -44,8 +44,9 @@ Include screenshots for better visual appeal:
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7239df12-ad01-429a-bcb2-7bb1c867728f" />
 
 3. **Terminal:**
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32134acd-cdca-4f18-8607-99c9b3938947" />
-" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f01af137-ec04-47a3-b6f4-30c4ebe1066a" />
+
+
 
 
 
