@@ -36,13 +36,15 @@ The goal is to **set up a full system from scratch** with one command and have y
 Include screenshots for better visual appeal:
 
 1. **Hyprland Environment Desktop:**
-   <img width="2561" height="1601" alt="image" src="https://github.com/user-attachments/assets/6403243b-3ff0-40f0-8b50-5c5d0aaec31f" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d840db14-bc9d-464c-8473-dee36726c8a2" />
   
 2. **Neovim:**
-   <img width="2540" height="1513" alt="image" src="https://github.com/user-attachments/assets/541f220c-e858-44c5-a021-82f5925dc3d0" />
-   <img width="2561" height="1601" alt="image" src="https://github.com/user-attachments/assets/625cb182-c6e0-4f64-8516-1ff19ac4e47c" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d7a63a2-0980-45a8-8918-f97b773b8baa" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7239df12-ad01-429a-bcb2-7bb1c867728f" />
 
 3. **Terminal:**
-   <img width="2561" height="1601" alt="image" src="https://github.com/user-attachments/assets/68db250e-72fd-413e-85fb-4cbeebd633d3" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32134acd-cdca-4f18-8607-99c9b3938947" />
+" />
+
 
 
