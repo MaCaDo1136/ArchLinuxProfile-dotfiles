@@ -22,12 +22,13 @@
 ArchLinuxProfile-dotfiles is a repository containing **personal dotfiles and scripts** to set up a modern Arch Linux system with:
 
 - **Shell:** Zsh + Powerlevel10k  
-- **Terminal:** Kitty  
+- **Terminal:** Foot  
 - **Editor:** Neovim with Lazy.nvim and personal plugins  
 - **Graphical Environment:** Hyprland + Waybar + Hyprpaper + Hyprlock  
 - **Utilities:** Neofetch, Fastfetch, pywal, htop, wofi, network tools  
 
 The goal is to **set up a full system from scratch** with one command and have your environment ready to use.
+This command is the install.sh
 
 ---
 
@@ -45,6 +46,7 @@ Include screenshots for better visual appeal:
 3. **Terminal:**
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32134acd-cdca-4f18-8607-99c9b3938947" />
 " />
+
 
 
 
